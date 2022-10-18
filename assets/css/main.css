@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Calibri Light', sans-serif;
 		line-height: 1.85em;
 		color: #888;
 		font-weight: 300;
@@ -976,7 +976,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 25px;
+							padding-top: 25px;Cali
 						}
 
 				.row.gtr-150 {
