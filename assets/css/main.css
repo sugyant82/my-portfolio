@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 450;
-		color: #e6dfdf;
+		color: #3e3e3e;
 	}
 
 	i, em {
@@ -149,9 +149,14 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #e6dfdf;
+	h2, h3, h4, h5, h6 {
+		color: #3e3e3e;
 		margin: 0 0 0.75em 0;
+	}
+
+	h1 {
+	color: e6dfdf:
+	margin: 0 0 0.75em 0;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1508,7 +1513,7 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		color: #e6dfdf;
+		color: #3e3e3e;
 		font-weight: 700;
 		display: block;
 		margin: 0 0 0.5em 0;
